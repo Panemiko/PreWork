@@ -60,6 +60,7 @@ module.exports = {
         ignoreRegExpLiterals: true,
       },
     ],
+    "@typescript-eslint/no-unsafe-member-access": "off",
     "@typescript-eslint/consistent-type-imports": [
       "warn",
       {
